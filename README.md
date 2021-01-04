@@ -13,12 +13,12 @@ Linkedin: https://www.linkedin.com/in/andrea-lamonato/
 
 
 Films watched while working on KringleCon 3:
-➤ Annihilation ➤ Avengers: Endgame ➤ Avengers: Infinity war
-➤ Black Panther ➤ Captain Marvel ➤ Cargo ➤ Code 8 ➤ Doom
-➤ Dream house ➤ Dreamcatcher ➤ Errementari ➤ Gerald’s game
-➤ House at the end of the street ➤ Hungerford 
-➤ The girl with all the gifts ➤ The invisible guardian
-➤ The midnight sky ➤ Thor ➤ Toy story of terror! ➤ Troll hunter
+	➤ Annihilation ➤ Avengers: Endgame ➤ Avengers: Infinity war
+	➤ Black Panther ➤ Captain Marvel ➤ Cargo ➤ Code 8 ➤ Doom
+	➤ Dream house ➤ Dreamcatcher ➤ Errementari ➤ Gerald’s game
+	➤ House at the end of the street ➤ Hungerford 
+	➤ The girl with all the gifts ➤ The invisible guardian
+	➤ The midnight sky ➤ Thor ➤ Toy story of terror! ➤ Troll hunter
 
 ..."And Splunk doesn’t work very well on paper" (Cliff Stoll)
 ..."Neither hex editing does" (Me working on Objective 11b)
