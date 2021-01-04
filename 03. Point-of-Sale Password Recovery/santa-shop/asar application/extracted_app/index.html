@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <meta http-equiv="X-Content-Security-Policy" content="default-src 'self'; script-src 'self'">
+    <link rel="stylesheet" href="style.css">
+
+    <title>Santa PoS</title>
+  </head>
+  <body>
+    <h1>Santa PoS</h1>
+
+    <div id="header">
+      <p id="header-left">SantaPOS v1.0</p>
+      <p id="header-right">User: elf </p>
+    </div>
+
+    <div id="network-container">
+      <img alt="network" id="network" src="img/network1.png" />
+    </div>
+
+    <div id="cart">
+    </div>
+
+    <div id="totals">
+      <div id="totals-inside">
+        <div id="subtotal">$0.00</div>
+        <div id="tax">$0.00 @ 0%</div>
+        <div id="total">$0.00</div>
+
+        <div id="buttons">
+          <button id="voidTransaction" class="red-button">Void</button>
+          <button id="checkout" class="green-button">Checkout</button>
+        </div>
+      </div>
+    </div>
+
+    <div id="products"></div>
+
+    <div id="overlay"></div>
+    <div id="overlay-content-outer"></div>
+    <div id="overlay-content-inner"></div>
+
+    <script src="./renderer.js"></script>
+  </body>
+</html>

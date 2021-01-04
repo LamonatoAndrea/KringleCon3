@@ -1,0 +1,263 @@
+html, body {
+  min-height: 100%;
+}
+
+body {
+  position: relative;
+	font-family: Verdana,Geneva,sans-serif;
+}
+
+#header {
+  top: 0;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  height: 48px;
+  background: #333333;
+  color: #FFFFFF;
+  font-size: 1.5em;
+  text-align: center;
+  padding-top: 16px;
+}
+
+#network-container {
+    position: fixed;
+    top: 0;
+    left: 976px;
+    width: 48px;
+    height: 48px;
+    padding-top: 16px;
+}
+
+#network {
+  height: 48px;
+  width: 48px;
+}
+
+#header-left {
+  top: 0;
+  left: 5%;
+  width: 100%;
+  position: fixed;
+  height: 48px;
+  text-align: left;
+}
+
+#header-right {
+  top: 0;
+  left: 0;
+  width: 95%;
+  position: fixed;
+  height: 48px;
+  text-align: right;
+}
+
+#cart {
+  position: fixed;
+
+  top: 64px;
+  left: 0px;
+
+  width: 300px;
+  height: 550px;
+
+  background: #dddddd;
+  text-align: right;
+
+	font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  padding-top: 16px;
+}
+
+#cart div {
+  padding: 5px;
+}
+
+#totals {
+  position: fixed;
+  top: 614px;
+  left: 0px;
+  width: 300px;
+  height: 200px;
+  padding: 10px;
+  text-align: right;
+
+  background: #f0f0f0;
+}
+
+#totals-inside {
+  padding-right: 20px;
+}
+
+#products {
+  position: fixed;
+  top: 64px;
+  left: 300px;
+  width: 724px;
+  height: 750px;
+
+  background: white;
+}
+
+#buttons {
+  padding: 10px;
+}
+
+#submit-password {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#overlay{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 10;
+  background-color: rgba(0,0,0,0.9); /*dim the background*/
+  display: None;
+}
+
+.overlay {
+  display: None;
+}
+
+#overlay-content-outer {
+  position: absolute;
+  /* top: 95px; */
+  /* left: 295px; */
+  /* width: 410px; */
+  /* height: 210px; */
+  z-index: 11;
+  border: 1px solid red;
+  display: none;
+
+  background: repeating-linear-gradient(
+    45deg,
+    red,
+    red 10px,
+    white 10px,
+    white 20px
+  );
+}
+
+#overlay-content-inner {
+  position: absolute;
+  /* top: 100px; */
+  /* left: 300px; */
+  /* width: 400px; */
+  /* height: 200px; */
+  z-index: 12;
+  background: white;
+  margin: auto;
+  text-align: center;
+  border: 1px solid red;
+  display: none;
+  padding: 10px;
+}
+
+.payment {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  width: 20%;
+  height: 20%;
+  z-index: 11;
+  background: white;
+  padding: 10px;
+}
+
+.thank-you {
+  position: absolute;
+  top: 40%;
+  left: 40%;
+  width: 20%;
+  height: 20%;
+  z-index: 11;
+  background: white;
+  padding: 10px;
+}
+
+.password-box-2 {
+  position: absolute;
+  top: 95px;
+  left: 295px;
+  width: 410px;
+  height: 210px;
+  z-index: 11;
+  border: 1px solid red;
+
+  background: repeating-linear-gradient(
+    45deg,
+    red,
+    red 10px,
+    white 10px,
+    white 20px
+  );
+}
+
+.password-box {
+  position: absolute;
+  top: 100px;
+  left: 300px;
+  width: 400px;
+  height: 200px;
+  z-index: 12;
+  background: white;
+  margin: auto;
+  text-align: center;
+  border: 1px solid red;
+}
+
+
+.product {
+  height: 115px;
+  width: 115px;
+  margin: 10px;
+  float: left;
+	font-family: "Courier New", Courier, monospace;
+  font-weight: bold;
+  padding: 0 !important;
+}
+
+.product:hover {
+  background-color: #0C7F10; /* Green */
+}
+
+.green-button {
+  background-color: #4CAF50; /* Green */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.green-button:hover {
+  background-color: #0C6F10; /* Green */
+}
+
+.red-button {
+  background-color: #AF4C50; /* Red */
+  border: none;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.red-button:hover {
+  background-color: #6F0C10; /* Red */
+}
+

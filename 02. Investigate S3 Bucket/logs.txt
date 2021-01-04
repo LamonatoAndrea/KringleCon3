@@ -1,0 +1,9 @@
+Bucket found but access denied: kringlecastle
+Bucket found but access denied: wrapper
+Bucket santa redirects to: santa.s3.amazonaws.com
+	Bucket found but access denied: santa
+Bucket found but access denied: package
+Bucket Found: wrapper3000 ( http://s3.amazonaws.com/wrapper3000 )
+	<Downloaded> http://s3.amazonaws.com/wrapper3000/package
+Bucket does not exist: kringlecon
+Bucket does not exist: santa-wrapper-3000

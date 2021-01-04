@@ -1,0 +1,9 @@
+{
+  "name": "santa-shop",
+  "version": "1.0.0",
+  "description": "Santa's store",
+  "main": "main.js",
+  "repository": "https://github.com/electron/electron-quick-start",
+  "author": "",
+  "email": ""
+}
