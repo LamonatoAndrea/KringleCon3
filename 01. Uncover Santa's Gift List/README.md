@@ -11,13 +11,14 @@ I spent a huge amount of time on the wrong picture:
 Once I switched to a bigger monitor and got back at the beginning of the challenge I found the right one 😁  
 So basically I just downloaded the image from the billboard at the entry:
 ![billboard](billboard.png)
-Edited it with Photopea as the twirly area was pretty straightforward:
+Edited it with Photopea and found that Josh Wright wanted a Proxmark:
 ![solved](solved.png)
 ## 1.3. Fun facts
-While uselessly scratching my head against Santa Portrait I uncovered a potential message in that one by highlighting borders:
-![high](highlighted_letters.png)
-![now_1](now%20is%20hall%20be%20out%20of%20sight_reconstructed.png)
-![now_1](now%20is%20hall%20be%20out%20of%20sight_typed.png)
+While uselessly scratching my head against Santa Portrait I uncovered a potential message by highlighting borders.  
+Below the position of the letters found and their reconstruction:
+![high](highlighted_letters.png)  
+![now_1](now%20is%20hall%20be%20out%20of%20sight_reconstructed.png)  
+![now_1](now%20is%20hall%20be%20out%20of%20sight_typed.png)  
 Which I suppose may make sense with becoming Santa afterward, but who knows 😁
 # 1. Uncover Santa's Gift List
 # 2. Investigate S3 Bucket
