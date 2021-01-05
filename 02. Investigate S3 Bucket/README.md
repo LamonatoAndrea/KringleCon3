@@ -7,11 +7,12 @@ The objective was to escape a menu and launch /bin/bash. The 4th option of the m
 ```bash
 ```
 ## 2.2. Hints
-> Leaky AWS S3 Buckets - Shinny Upatree: “It seems like there's a new story every week about data exposed through unprotected Amazon S3 buckets.”
-> Finding S3 Buckets - Shinny Upatree: “Robin Wood wrote up a guide about finding these open S3 buckets.”
-> Santa's Wrapper3000 - Shinny Upatree: “Santa's Wrapper3000 is pretty buggy. It uses several compression tools, binary to ASCII conversion, and other tools to wrap packages.”
-> Find Santa's Package - Shinny Upatree: “Find Santa's package file from the cloud storage provider. Check Josh Wright's talk for more tips!”
-> Bucket_finder.rb - Shinny Upatree: “He even wrote a tool to search for unprotected buckets!”
+> **Leaky AWS S3 Buckets** - Shinny Upatree: *“It seems like there's a new story every week about data exposed through unprotected Amazon S3 buckets.”*  
+> **Finding S3 Buckets** - Shinny Upatree: *“Robin Wood wrote up a guide about finding these open S3 buckets.”*  
+> **Santa's Wrapper3000** - Shinny Upatree: *“Santa's Wrapper3000 is pretty buggy. It uses several compression tools, binary to ASCII conversion, and other tools to wrap packages.”*  
+> **Find Santa's Package** - Shinny Upatree: *“Find Santa's package file from the cloud storage provider. Check Josh Wright's talk for more tips!”*  
+> **Bucket_finder.rb** - Shinny Upatree: *“He even wrote a tool to search for unprotected buckets!”*  
+
 ## 2.3. Solution
 Reminding also the name of the tool itself (Wrapper3000), out of some thoughts and luckiness I added some words to the wordlist:
 ```
