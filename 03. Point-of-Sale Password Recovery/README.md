@@ -193,7 +193,7 @@ I copied back the application to the host and extract it to a dedicated folder w
 ```bash
 thedead@dellian:~/Desktop/repos/KringleCon3/03. Point-of-Sale Password Recovery/santa-shop/asar application$ asar extract app.asar extracted_app
 ```
-In the folder to which `asar.app` was extracted, the [`main.js`](santa-shop/asar%20application/main.js) file contains a constant `SANTA_PASSWORD` with value `'santapass'`.
+In the folder to which `asar.app` was extracted, the [`main.js`](santa-shop/asar%20application/extracted_app/main.js) file contains a constant `SANTA_PASSWORD` with value `'santapass'`.
 ```bash
 thedead@dellian:~/Desktop/repos/KringleCon3/03. Point-of-Sale Password Recovery/santa-shop/asar application$ grep -i password extracted_app/main.js 
 const SANTA_PASSWORD = 'santapass';
@@ -202,6 +202,7 @@ ipcMain.handle('unlock', (event, password) => {
 ```
 ## 3.4. What if...?
 What if your ecommerce application does not validate input against negative quantities of the product and the invoice program fixes it with the abs function?
+![meme](imgs/04_meme.jpeg)
 # 4. Operate the Santavator
 # 5. Open HID Lock
 # 6. Splunk Challenge
