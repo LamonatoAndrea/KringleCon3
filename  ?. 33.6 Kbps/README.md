@@ -98,7 +98,7 @@ $.get("checkpass.php?i=" + secret + "&resourceId=" + resourceId, function( data 
 });
 ```
 I ran the instructions to build up the secret and send it out from the developer tools console and that made the trick:
-![dialup_solution.png](dialup_solution.png)
+![dialup_solution.png](imgs/00_dialup_solution.png)
 ## ?.3. ...actually...
 Actually Fitzy Shortstack gave a suggestion regarding [Objective 5](TO_LINK), but why shouldn’t this challenge deserve its own section?
 
@@ -110,7 +110,7 @@ After completing the challenge Fitzy tells:
 
 Shinny Upatree’s badge is the working one for [Objective 5](TO_LINK).
 ## ?.5. Gentlemen, start your engines!
-![Worst solution](worst_solution.jpeg)
+![Worst solution](imgs/01_worst_solution.jpeg)
 
 # 1. Uncover Santa's Gift List
 # 2. Investigate S3 Bucket
