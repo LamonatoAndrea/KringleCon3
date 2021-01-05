@@ -59,7 +59,7 @@ I ran `bucket_finder.rb` with the updated and the `-d` option, ending up retriev
 `North Pole: The Frostiest Place on Earth`
 
 Below the output of the shell session:
-```ShellSession
+```console
 thedead@dellian:~/Desktop/repos/KringleCon3/02. Investigate S3 Bucket$ cat wordlist.txt 
 kringlecastle
 wrapper
