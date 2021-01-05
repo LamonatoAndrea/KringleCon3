@@ -12,7 +12,7 @@ The discussion with Fitzy Shortstack goes something like:
 > Maybe you can help me out? The phone number is 756-8347; you can use this blue phone.
 ## ?.2. Solution
 I started working with DTMF tones but laziness prevailed and here is my actual solution 😁  
-I took a look at the JS code behind the phone and noticed the variable secret that was being updated at every right step:
+I took a look at the [dialup.js](dialup.js) code behind the phone and noticed the variable secret that was being updated at every right step:
 ```javascript
 
 pickup.addEventListener('click', () => {
