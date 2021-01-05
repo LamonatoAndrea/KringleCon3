@@ -108,7 +108,7 @@ After completing the challenge Fitzy tells:
 > Anytime you feel like changing the color scheme up, just pick up the phone!  
 > You know, Santa really seems to trust Shinny Upatree…  
 
-Shinny Upatree’s badge is the working one for Objective 5[Objective 5](TO_LINK).
+Shinny Upatree’s badge is the working one for [Objective 5](TO_LINK).
 ## ?.5. Gentlemen, start your engines!
 ![Worst solution](worst_solution.jpeg)
 
