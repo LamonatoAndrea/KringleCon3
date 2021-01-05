@@ -17,8 +17,8 @@ Edited it with Photopea and found that Josh Wright wanted a Proxmark:
 While uselessly scratching my head against Santa Portrait I uncovered a potential message by highlighting borders.  
 Below the position of the letters found and their reconstruction:
 ![high](imgs/01_highlighted_letters.png)  
-![now_1](imsg/02_now_is_hall_be_out_of_sight_reconstructed.png)  
-![now_1](imgs/03_now_is_hall_be_out_of_sight_typed.png)  
+![now_1](imsg/02_now_is_hall_be_out_of_sight_reconstructed.png)	  
+![now_2](imgs/03_now_is_hall_be_out_of_sight_typed.png)  
 Which I suppose may make sense with [becoming Santa](TO_LINK) afterward, but who knows 😁
 # 2. Investigate S3 Bucket
 # 3. Point-of-Sale Password Recovery
