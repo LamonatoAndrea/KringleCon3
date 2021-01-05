@@ -27,38 +27,50 @@ Films watched while working on KringleCon 3:
 ### 0.1. "And Splunk doesn’t work very well on paper"
 [Renowned Author Cyber Pioneer Cliff Stoll Mesmerizes at CrowdStrike Conference](https://www.youtube.com/watch?v=ddAtMMDeeq8)
 
-# ?. [33.6 Kbps 5](test)
+# ?. [33.6 Kbps](test)
 # 1. Uncover Santa's Gift List
-# 2. Investigate S3 Bucket 10
-## 2.1. Side Challenge - Kringle Kiosk 10
-## 2.3. Solution 10
+# 2. Investigate S3 Bucket
 # 3. Point-of-Sale Password Recovery
-## 3.1. Side Challenge - Linux Primer 11
-## 3.3. Solution 11
 # 4. Operate the Santavator
-## 4.1. Side Challenge - Unescape tmux 12
-## 4.2. Side Challenge - The Elf C0de 12
-# 5. Open HID Lock 14
-## 5.1. Side Challenge - Speaker UNPrep 15
-## 5.4. Solution 16
+# 5. Open HID Lock
 # 6. Splunk Challenge
-## 6.1. Side Challenge - Sort-O-Matic 17
-## 6.3. Solution 18
 # 7. Solve the Sleigh's CAN-D-BUS Problem
-## 7.1. Side Challenge - CAN-Bus Investigation 21
-## 7.3. Solution 22
 # 8. Broken Tag Generator
-## 8.1. Side Challenge - Redis Bug Hunt 23
-## 8.3. Solution 24
-# 9. ARP Shenanigans 25
-## 9.1. Side Challenge - Scapy Prepper 26
-## 9.3. Solution 26
+# 9. ARP Shenanigans
 # 10. Defeat Fingerprint Sensor
-## 10.1. Solution 29
 # 11a. Naughty/Nice List with Blockchain Investigation Part 1
-## 11a.1. Side Challenge - Snowball Fight 30
-## 11a.3. Solution 32
 # 11b. Naughty/Nice List with Blockchain Investigation Part 2
-## 11b.2. Solution 33
-# 12. Narrative 43
-# 12. What’s next? 43
+# 12. Narrative
+KringleCon back at the castle, set the stage...
+
+But it's under construction like my GeoCities page.
+
+Feel I need a passport exploring on this platform -
+
+Got half floors with back doors provided that you hack more!
+
+Heading toward the light, unexpected what you see next:
+
+An alternate reality, the vision that it reflects.
+
+Mental buffer's overflowing like a fast food drive-thru trash can.
+
+Who and why did someone else impersonate the big man?
+
+You're grepping through your brain for the portrait's "JFS"
+
+"Jack Frost: Santa," he's the villain who had triggered all this mess!
+
+Then it hits you like a chimney when you hear what he ain't saying:
+
+Pushing hard through land disputes, tryin' to stop all Santa's sleighing.
+
+All the rotting, plotting, low conniving streaming from that skull.
+
+Holiday Hackers, they're no slackers, returned Jack a big, old null!
+
+# 12. What’s next?
+Thanks for the interesting challenge guys and see you next year!
+
+Maybe I also found out why Jack Frosty was so grinchy this year…
+![Dear Santa](DearSanta.jpeg)
