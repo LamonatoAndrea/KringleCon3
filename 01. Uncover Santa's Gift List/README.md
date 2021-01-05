@@ -13,14 +13,13 @@ So basically I just downloaded the image from the billboard at the entry:
 ![billboard](billboard.png)
 Edited it with Photopea and found that Josh Wright wanted a Proxmark:
 ![solved](solved.png)
-## 1.3. Fun facts
+## 1.3. Ransom letter
 While uselessly scratching my head against Santa Portrait I uncovered a potential message by highlighting borders.  
 Below the position of the letters found and their reconstruction:
 ![high](highlighted_letters.png)  
 ![now_1](now%20is%20hall%20be%20out%20of%20sight_reconstructed.png)  
 ![now_1](now%20is%20hall%20be%20out%20of%20sight_typed.png)  
-Which I suppose may make sense with becoming Santa afterward, but who knows 😁
-# 1. Uncover Santa's Gift List
+Which I suppose may make sense with [becoming Santa](TO_LINK) afterward, but who knows 😁
 # 2. Investigate S3 Bucket
 # 3. Point-of-Sale Password Recovery
 # 4. Operate the Santavator
@@ -32,5 +31,6 @@ Which I suppose may make sense with becoming Santa afterward, but who knows 😁
 # 10. Defeat Fingerprint Sensor
 # 11a. Naughty/Nice List with Blockchain Investigation Part 1
 # 11b. Naughty/Nice List with Blockchain Investigation Part 2
+---
 # 0. [thedead@asian:~$ whoami](../README.md)
 # ?. [33.6 Kbps](../%20%3F.%2033.6%20Kbps/README.md)

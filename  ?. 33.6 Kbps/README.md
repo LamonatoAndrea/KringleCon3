@@ -124,4 +124,5 @@ Shinny Upatree’s badge is the working one for [Objective 5](TO_LINK).
 # 10. Defeat Fingerprint Sensor
 # 11a. Naughty/Nice List with Blockchain Investigation Part 1
 # 11b. Naughty/Nice List with Blockchain Investigation Part 2
+---
 # [0. thedead@asian:~$ whoami](../README.md)
