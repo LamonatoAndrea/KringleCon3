@@ -146,7 +146,9 @@ Everything is Ok
 
 Size:       468
 Compressed: 2048
-thedead@dellian:~/Desktop/repos/KringleCon3/02. Investigate S3 Bucket/wrapper3000$ cat package.txt.Z.xz.xxd
+```
+The content of `package.txt.Z.xz.xxd` is:
+```
 00000000: fd37 7a58 5a00 0004 e6d6 b446 0200 2101  .7zXZ......F..!.
 00000010: 1600 0000 742f e5a3 0100 2c1f 9d90 4ede  ....t/....,...N.
 00000020: c8a1 8306 0494 376c cae8 0041 054d 1910  ......7l...A.M..
@@ -154,6 +156,9 @@ thedead@dellian:~/Desktop/repos/KringleCon3/02. Investigate S3 Bucket/wrapper300
 00000040: 1b10 45c2 0c44 a300 0000 0000 c929 dad6  ..E..D.......)..
 00000050: 64ef da24 0001 452d 1e52 57e8 1fb6 f37d  d..$..E-.RW....}
 00000060: 0100 0000 0004 595a                      ......YZ
+```
+So to proceed:
+```bash
 thedead@dellian:~/Desktop/repos/KringleCon3/02. Investigate S3 Bucket/wrapper3000$ cat package.txt.Z.xz.xxd | cut -d " " -f2,3,4,5,6,7,8,9,10 --output-delimiter="" | tr -d '\n' > package.txt.Z.xz_hex
 thedead@dellian:~/Desktop/repos/KringleCon3/02. Investigate S3 Bucket/wrapper3000$ xxd -r -p package.txt.Z.xz_hex > package.txt.Z.xz
 thedead@dellian:~/Desktop/repos/KringleCon3/02. Investigate S3 Bucket/wrapper3000$ file package.txt.Z.xz
