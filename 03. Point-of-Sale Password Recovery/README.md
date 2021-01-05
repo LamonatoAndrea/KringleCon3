@@ -183,12 +183,12 @@ elf@94a0c57563e1:~/workshop/electrical$ exit
 > **Electron ASAR Extraction** - Sugarplum Mary: *“There are tools and guides explaining how to extract ASAR from Electron apps.”*  
 ## 3.3. Solution
 I downloaded the `santa-shop.exe` application to a Windows virtual machine and ran it:
-![installing](santa-shop/00%20-%20Installing.png)
-![santa-shop](santa-shop/01%20-%20santa-shop.png)
+![installing](imgs/00_installing.png)
+![santa-shop](imgs/01_santa-shop.png)
 It installed itself within the `%appdata%` folder:
-![install_dir](santa-shop/02%20-%20install%20dir.png)
+![install_dir](imgs/02_install_dir.png)
 In the resources directory I could find the `app.asar` file:
-![resources](santa-shop/03%20-%20install%20dir_resources.png)
+![resources](imgs/03_install_dir_resources.png)
 I copied back the application to the host and extract it to a dedicated folder with `asar extract app.asar`:
 ```bash
 thedead@dellian:~/Desktop/repos/KringleCon3/03. Point-of-Sale Password Recovery/santa-shop/asar application$ asar extract app.asar extracted_app
