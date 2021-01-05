@@ -112,6 +112,7 @@ Shinny Upatree’s badge is the working one for [Objective 5](TO_LINK).
 ## ?.5. Gentlemen, start your engines!
 ![Worst solution](imgs/01_worst_solution.jpeg)
 
+---
 # 1. Uncover Santa's Gift List
 # 2. Investigate S3 Bucket
 # 3. Point-of-Sale Password Recovery

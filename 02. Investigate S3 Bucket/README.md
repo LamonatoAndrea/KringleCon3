@@ -206,6 +206,8 @@ North Pole: The Frostiest Place on Earth
 ```
 ## 2.4. Interesting facts
 There is an entire challenge dedicated to AWS vulnerabilities, which includes S3 buckets issues. Kudos to http://flaws.cloud/!
+
+---
 # 3. Point-of-Sale Password Recovery
 # 4. Operate the Santavator
 # 5. Open HID Lock

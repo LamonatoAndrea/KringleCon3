@@ -20,6 +20,8 @@ Below the position of the letters found and their reconstruction:
 ![now_1](imgs/02_now_is_hall_be_out_of_sight_reconstructed.png)	  
 ![now_2](imgs/03_now_is_hall_be_out_of_sight_typed.png)  
 Which I suppose may make sense with [becoming Santa](TO_LINK) afterward, but who knows 😁
+
+---
 # 2. Investigate S3 Bucket
 # 3. Point-of-Sale Password Recovery
 # 4. Operate the Santavator

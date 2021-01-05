@@ -203,6 +203,8 @@ ipcMain.handle('unlock', (event, password) => {
 ## 3.4. What if...?
 What if your ecommerce application does not validate input against negative quantities of the product and the invoice program fixes it with the abs function?  
 ![meme](imgs/04_meme.jpeg)
+
+---
 # 4. Operate the Santavator
 # 5. Open HID Lock
 # 6. Splunk Challenge
