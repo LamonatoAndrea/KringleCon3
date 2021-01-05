@@ -1,6 +1,6 @@
 # Writeup for SANS Holiday Hack Challenge 2020 - 'Zat You, Santa Claus? featuring KringleCon 3: French Hens
-# [0. thedead@asian:~$ whoami](../)
-# ?. [33.6 Kbps](%20%3F.%2033.6%20Kbps)
+# [0. thedead@asian:~$ whoami](../README.md)
+# ?. [33.6 Kbps](%20%3F.%2033.6%20Kbps/README.md)
 # 1. Uncover Santa's Gift List
 # 2. Investigate S3 Bucket
 # 3. Point-of-Sale Password Recovery

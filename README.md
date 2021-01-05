@@ -27,7 +27,7 @@ Films watched while working on KringleCon 3:
 ### 0.1. "And Splunk doesn’t work very well on paper"
 [Renowned Author Cyber Pioneer Cliff Stoll Mesmerizes at CrowdStrike Conference](https://www.youtube.com/watch?v=ddAtMMDeeq8)
 
-# ?. [33.6 Kbps](test)
+# ?. [33.6 Kbps](%20%3F.%2033.6%20Kbps/README.md)
 # 1. Uncover Santa's Gift List
 # 2. Investigate S3 Bucket
 # 3. Point-of-Sale Password Recovery
