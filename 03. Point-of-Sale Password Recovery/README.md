@@ -186,14 +186,14 @@ I downloaded the `santa-shop.exe` application to a Windows virtual machine and r
 ![installing](santa-shop/00%20-%20Installing.png)
 ![santa-shop](santa-shop/01%20-%20santa-shop.png)
 It installed itself within the `%appdata%` folder:
-![install_dir](santa-shop/02%20-%20install%20dire.png)
+![install_dir](santa-shop/02%20-%20install%20dir.png)
 In the resources directory I could find the `app.asar` file:
 ![resources](santa-shop/03%20-%20install%20dir_resources.png)
 I copied back the application to the host and extract it to a dedicated folder with `asar extract app.asar`:
 ```bash
 thedead@dellian:~/Desktop/repos/KringleCon3/03. Point-of-Sale Password Recovery/santa-shop/asar application$ asar extract app.asar extracted_app
 ```
-In the folder to which `asar.app` was extracted, the `main.js` file contains a constant `SANTA_PASSWORD` with value `'santapass'`.
+In the folder to which `asar.app` was extracted, the [`main.js`](santa-shop/santa-shop/asar%20application/main.js) file contains a constant `SANTA_PASSWORD` with value `'santapass'`.
 ```bash
 thedead@dellian:~/Desktop/repos/KringleCon3/03. Point-of-Sale Password Recovery/santa-shop/asar application$ grep -i password extracted_app/main.js 
 const SANTA_PASSWORD = 'santapass';
