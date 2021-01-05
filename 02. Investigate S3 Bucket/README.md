@@ -217,6 +217,6 @@ There is an entire challenge dedicated to AWS vulnerabilities, which includes S3
 # 11a. Naughty/Nice List with Blockchain Investigation Part 1
 # 11b. Naughty/Nice List with Blockchain Investigation Part 2
 ---
-# [0. thedead@asian:~$ whoami](../README.md)
+# 0. [thedead@asian:~$ whoami](../README.md)
 # ?. 33.6 Kbps
 # 1. Uncover Santa's Gift List
