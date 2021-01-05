@@ -7,18 +7,18 @@ There is a photo of Santa's Desk on that billboard with his personal gift list. 
 > **Image Edit Tool** - Jingle Ringford: *"There are tools out there that could help Filter the Distortion that is this Twirl."*
 ## 1.2. Solution
 I spent a huge amount of time on the wrong picture:
-![santa_portrait](santa_portrait.jpg)
+![santa_portrait](imgs/santa_portrait.jpg)
 Once I switched to a bigger monitor and got back at the beginning of the challenge I found the right one 😁  
 So basically I just downloaded the image from the billboard at the entry:
-![billboard](billboard.png)
+![billboard](imgs/billboard.png)
 Edited it with Photopea and found that Josh Wright wanted a Proxmark:
-![solved](solved.png)
+![solved](imgs/00_solved.png)
 ## 1.3. Ransom letter
 While uselessly scratching my head against Santa Portrait I uncovered a potential message by highlighting borders.  
 Below the position of the letters found and their reconstruction:
-![high](highlighted_letters.png)  
-![now_1](now%20is%20hall%20be%20out%20of%20sight_reconstructed.png)  
-![now_1](now%20is%20hall%20be%20out%20of%20sight_typed.png)  
+![high](imgs/01_highlighted_letters.png)  
+![now_1](imsg/02_now_is_hall_be_out_of_sight_reconstructed.png)  
+![now_1](imgs/03_now_is_hall_be_out_of_sight_typed.png)  
 Which I suppose may make sense with [becoming Santa](TO_LINK) afterward, but who knows 😁
 # 2. Investigate S3 Bucket
 # 3. Point-of-Sale Password Recovery
