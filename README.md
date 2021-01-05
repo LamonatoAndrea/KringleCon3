@@ -23,9 +23,7 @@ Films watched while working on KringleCon 3:
 ..."And Splunk doesn’t work very well on paper" (Cliff Stoll)
 ..."Neither hex editing does" (Me working on Objective 11b)
 ```
-
-### 0.1. "And Splunk doesn’t work very well on paper"
-[Renowned Author Cyber Pioneer Cliff Stoll Mesmerizes at CrowdStrike Conference](https://www.youtube.com/watch?v=ddAtMMDeeq8)
+### 0.1. ["And Splunk doesn’t work very well on paper"](https://www.youtube.com/watch?v=ddAtMMDeeq8)
 
 # ?. [33.6 Kbps](%20%3F.%2033.6%20Kbps/README.md)
 # 1. Uncover Santa's Gift List
@@ -68,7 +66,7 @@ Pushing hard through land disputes, tryin' to stop all Santa's sleighing.
 All the rotting, plotting, low conniving streaming from that skull.
 
 Holiday Hackers, they're no slackers, returned Jack a big, old null!
-# 12. What’s next?
+# 13. What’s next?
 Thanks for the interesting challenge guys and see you next year!
 
 Maybe I also found out why Jack Frosty was so grinchy this year...
