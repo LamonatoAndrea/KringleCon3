@@ -20,6 +20,12 @@ Films watched while working on KringleCon 3:
 	➤ The girl with all the gifts ➤ The invisible guardian
 	➤ The midnight sky ➤ Thor ➤ Toy story of terror! ➤ Troll hunter
 
-..."And Splunk doesn’t work very well on paper" ([GitHub](http://github.com)Cliff Stoll)
+..."And Splunk doesn’t work very well on paper" (Cliff Stoll)
 ..."Neither hex editing does" (Me working on Objective 11b)
 ```
+
+### 0.1. "And Splunk doesn’t work very well on paper"
+[Renowned Author Cyber Pioneer Cliff Stoll Mesmerizes at CrowdStrike Conference](https://www.youtube.com/watch?v=ddAtMMDeeq8)
+
+### 0.1. "Neither hex editing does"
+[Me working on Objective 11b](asdasd)
