@@ -23,3 +23,4 @@ Films watched while working on KringleCon 3:
 ..."And Splunk doesn’t work very well on paper" (Cliff Stoll)
 ..."Neither hex editing does" (Me working on Objective 11b)
 ```
+<span style="color:blue">some *This is Blue italic.* text</span>
