@@ -3,7 +3,7 @@
 ## 7.0. Description
 Jack Frost is somehow inserting malicious messages onto the sleigh's CAN-D bus. We need you to exclude the malicious messages and no others to fix the sleigh. Visit the NetWars room on the roof and talk to Wunorse Openslae for hints.
 ## 7.1. Side Challenge - CAN-Bus Investigation
-I actually relied on using the Sleigh CAN-D-BUS to understand which were the LOCK and UNLOCK signals, the full mapping I made can be found in [Chapter 7.4](#7.4.%20Signal$20mapping).
+I actually relied on using the Sleigh CAN-D-BUS to understand which were the LOCK and UNLOCK signals, the full mapping I made can be found in [Chapter 7.4](#7.4.%20Signal%20mapping).
 ```bash
 elf@5247e7d263e9:~$ grep "19B#00000F000000" candump.log 
 (1608926671.122520) vcan0 19B#00000F000000
@@ -20,7 +20,7 @@ Your answer is correct!
 > **CAN ID Codes** - Wunorse Openslae: *“Try filtering out one CAN-ID at a time and create a table of what each might pertain to. What's up with the brakes and doors?”*
 
 ## 7.3. Solution
-I started excluding all codes that looked safe and mapping them to their functions whìch can be found in [Chapter 7.4](#7.4.%20Signal$20mapping). When I removed enough background noise to find out unsafe messages I filtered out these two:
+I started excluding all codes that looked safe and mapping them to their functions whìch can be found in [Chapter 7.4](#7.4.%20Signal%20mapping). When I removed enough background noise to find out unsafe messages I filtered out these two:
 
 | ID  | COMPARISON OPERATOR | MESSAGE CRITERION | POSSIBLE MEANING |
 | --- | ------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
