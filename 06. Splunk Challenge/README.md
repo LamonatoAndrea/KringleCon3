@@ -189,7 +189,7 @@ Decrypted using the RC4 Cypher from dcode.fr with input `ec55e33f59727ca6f20cafc
 RESPONSE: `The Lollipop Guild`
 
 ## 6.4. T-Shirts and Stickers
-I actually have this splunk t-shirt and sticker, love them!
+I actually have this splunk t-shirt and sticker, love them!  
 [![tshirt](imgs/03_lookingfortrouble.jpeg)](https://poshmark.com/listing/SPLUNK-Looking-For-Trouble-Mens-Graphic-T-Shirt-5e12a1df41950146cd874171)  
 ![sticker](imgs/04_sticker.jpg)
 
