@@ -22,22 +22,22 @@ Your answer is correct!
 ## 7.3. Solution
 I started excluding all codes that looked safe and mapping them to their functions whìch can be found in [Chapter 7.4](#74-signal-mapping). When I removed enough background noise to find out unsafe messages I filtered out these two:
 
-| ID  | COMPARISON OPERATOR | MESSAGE CRITERION | POSSIBLE MEANING |
-| --- | ------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------- |
-| 19B | EQUALS              | 00 00 00 0F 20 57 | The signal code looks like an LOCK signal. This altered LOCK gets repeated also while the Sleigh is in idle state. It’s probable that the last bytes are just ignored thus the potential effect is that doors may close randomly at every moment. |
-| 080 | CONTAINS            | FF FF F           | The signal code is a BRAKE code but it looks like a negative number in two’s complement representation. This collides with the BRAKE signal which only accepts positive numbers (0x00 to 0x64). The potential effect would be to randomly disable brakes during their usage.|
+| ID    | COMPARISON OPERATOR | MESSAGE CRITERION   | POSSIBLE MEANING                                                                                                               |
+| ----- | ------------------- | ------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| `19B` | EQUALS              | `00 00 00 0F 20 57` | The signal code looks like an LOCK signal. This altered LOCK gets repeated also while the Sleigh is in idle state. It’s probable that the last bytes are just ignored thus the potential effect is that doors may close randomly at every moment. |
+| `080` | CONTAINS            | `FF FF F          ` | The signal code is a BRAKE code but it looks like a negative number in two’s complement representation. This collides with the BRAKE signal which only accepts positive numbers (0x00 to 0x64). The potential effect would be to randomly disable brakes during their usage.|
 
 ## 7.4. Signal mapping
-| ID  | COMPARISON OPERATOR | MESSAGE CRITERION | TAILING BYTES MEANING                                                                                          | OPERATION      |
-| --- | ------------------- | ----------------- | -------------------------------------------------------------------------------------------------------------- | -------------- |
-| 19B | EQUALS              | 00 00 00 00 00 00 | N/A                                                                                                            | LOCK           |
-| 19B | EQUALS              | 00 00 0F 00 00 00 | N/A                                                                                                            | UNLOCK         |
-| 02A | EQUALS              | 00 00 FF          | N/A                                                                                                            | STOP           |
-| 02A | EQUALS              | 00 FF 00          | N/A                                                                                                            | START          |
-| 244 | CONTAINS            | -- -- -- -- -- -- | Hexdecimal representation of the speed shown by the speedometer                                                | SPEEDOMETER    |
-| 080 | CONTAINS            | 00 00 --          | Hexdecimal representation of the brake pressure (0x00 to 0x64)                                                 | BRAKE          |
-| 019 | CONTAINS            | FF FF FF --       | Steering with - sign, the negative number gets represented as two’s complement and ranges from (0xFF to 0xCE). | STEERING LEFT  |
-| 019 | CONTAINS            | 00 00 00 --       | Steering with + sign, the negative number gets represented as two’s complement and ranges from (0x00 to 0x32). | STEERING RIGHT |
+| ID    | COMPARISON OPERATOR   | MESSAGE CRITERION   | TAILING BYTES MEANING                                                                                          | OPERATION |
+| ---   | -------------------   | -----------------   | -----------------------------------------------------------------------------------------------------------    | --------- |
+| `19B` | `EQUALS  `            | `00 00 00 00 00 00` | N/A                                                                                                            | LOCK           |
+| `19B` | `EQUALS  `            | `00 00 0F 00 00 00` | N/A                                                                                                            | UNLOCK         |
+| `02A` | `EQUALS  `            | `00 00 FF         ` | N/A                                                                                                            | STOP           |
+| `02A` | `EQUALS  `            | `00 FF 00         ` | N/A                                                                                                            | START          |
+| `244` | `CONTAINS`            | `-- -- -- -- -- --` | Hexdecimal representation of the speed shown by the speedometer                                                | SPEEDOMETER    |
+| `080` | `CONTAINS`            | `00 00 --         ` | Hexdecimal representation of the brake pressure (0x00 to 0x64)                                                 | BRAKE          |
+| `019` | `CONTAINS`            | `FF FF FF --      ` | Steering with - sign, the negative number gets represented as two’s complement and ranges from (0xFF to 0xCE). | STEERING LEFT  |
+| `019` | `CONTAINS`            | `00 00 00 --      ` | Steering with + sign, the negative number gets represented as two’s complement and ranges from (0x00 to 0x32). | STEERING RIGHT |
 
 ## 7.5. All fits now
 Remember my request at Chapter 5.5.1? You made me become Santa, you made me fix his sleigh, how can you not allow me to ride Rudolph next year?  
