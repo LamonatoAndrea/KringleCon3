@@ -212,7 +212,7 @@ Also to recall the whoami, there is a neat book by Cliff Stoll regarding that â€
 
 
 ---
-# 0. [thedead@asian:~$ whoami](../README.md)
+# 0. [thedead@asian:~$ whoami](../)
 # ?. 33.6 Kbps
 # 1. Uncover Santa's Gift List
 # 2. Investigate S3 Bucket
