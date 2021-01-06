@@ -56,6 +56,7 @@ This challenge is about helping an Elf to reach the exit in a map using javascri
 elf.moveLeft(10);
 elf.moveUp(100);
 ```
+![lv1](imgs/01_TheElfC0de_Level1.gif)
 ### 4.1.2 Level 2
 ```javascript
 elf.moveLeft(6);
@@ -63,6 +64,7 @@ elf.pull_lever(elf.get_lever(0) + 2);
 elf.moveLeft(4);
 elf.moveUp(100);
 ```
+![lv2](imgs/02_TheElfC0de_Level2.gif)
 ### 4.1.3 Level 3
 ```javascript
 elf.moveTo(lollipop[0]);
@@ -70,6 +72,7 @@ elf.moveTo(lollipop[1]);
 elf.moveTo(lollipop[2]);
 elf.moveUp(100);
 ```
+![lv3](imgs/03_TheElfC0de_Level3.gif)
 ### 4.1.4 Level 4
 ```javascript
 for (i = 0; i < 3; i++) {
@@ -80,6 +83,7 @@ for (i = 0; i < 3; i++) {
 }
 elf.moveUp(100);
 ```
+![lv4](imgs/04_TheElfC0de_Level4.gif)
 ### 4.1.5 Level 5
 ```javascript
 elf.moveTo(lollipop[1]);
@@ -93,6 +97,7 @@ for (i = 0; i < q.length; i++) {
 elf.tell_munch(a);
 elf.moveUp(10);
 ```
+![lv5](imgs/05_TheElfC0de_Level5.gif)
 ### 4.1.6 Level 6
 ```javascript
 for (i = 0; i < 4; i++)
@@ -105,6 +110,7 @@ for (key in q)
     elf.tell_munch(key);
 elf.moveUp(10);
 ```
+![lv6](imgs/06_TheElfC0de_Level6.gif)
 ### 4.1.7 Level 7
 ```javascript
 function f(q) {
@@ -127,6 +133,7 @@ elf.moveLeft(4);
 elf.tell_munch(f);
 elf.moveUp(100);
 ```
+![lv7](imgs/07_TheElfC0de_Level7.gif)
 ### 4.1.8 Level 8
 I just want to point out the laziness applied against brain to solve the 8th level here:
 ```javascript
@@ -157,6 +164,7 @@ for (i=0; i<moves.length; i++) {
     }
 }
 ```
+![lv8](imgs/08_TheElfC0de_Level8.gif)
 ## 4.3. Hints
 > **Santavator Operations** - Pepper Minstix: *“It's really more art than science. The goal is to put the right colored light into the receivers on the left and top of the panel.”*
 > **Santavator Bypass** - Ribb Bonbowford: *“There may be a way to bypass the Santavator S4 game with the browser console...”*
@@ -243,7 +251,7 @@ $.ajax({
   }
 });
 ```
-![floor1](01_goToFloor-1.png)
+![floor1](imgs/09_goToFloor-1.png)
 ### 4.4.2. Floor 1.5
 ```javascript
 var targetFloor = 1.5;
@@ -267,7 +275,7 @@ $.ajax({
   }
 });
 ```
-![floor1.5](02_goToFloor-1.5.png)
+![floor1.5](imgs/10_goToFloor-1.5.png)
 ### 4.4.3. Floor 2
 ```javascript
 var targetFloor = 2;
@@ -291,7 +299,7 @@ $.ajax({
   }
 });
 ```
-![floor2](03_goToFloor-2.png)
+![floor2](imgs/11_goToFloor-2.png)
 ### 4.4.4. Floor 3
 ```javascript
 var targetFloor = 3;
@@ -315,7 +323,7 @@ $.ajax({
   }
 });
 ```
-![floor3](04_goToFloor-3.png)
+![floor3](imgs/12_goToFloor-3.png)
 ### 4.4.4. Floor r
 ```javascript
 var targetFloor = "r";
@@ -339,10 +347,10 @@ $.ajax({
   }
 });
 ```
-![floor-r](05_goToFloor-r.png)
+![floor-r](imgs/13_goToFloor-r.png)
 ## 4.5. “It's really more art than science”
 Once obtained all objects it was possible to power up the santavator properly. I think I made it really bad so here’s the screenshot of all pieces in “artistic” places:
-![art](06_art.png)
+![art](imgs/14_art.png)
 
 ---
 # 5. Open HID Lock
