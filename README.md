@@ -70,5 +70,5 @@ Holiday Hackers, they're no slackers, returned Jack a big, old null!
 Thanks for the interesting challenge guys and see you next year!
 
 Maybe I also found out why Jack Frosty was so grinchy this year...
-![Dear Santa](DearSanta.jpeg)  
+![Dear Santa](imgs/DearSanta.jpeg)  
 ...did I ask to make a [run run Rudolph](https://www.youtube.com/watch?v=YiadNVhaGwk) challenge next year already?
