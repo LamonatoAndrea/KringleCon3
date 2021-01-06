@@ -166,7 +166,7 @@ for (i=0; i<moves.length; i++) {
 ```
 ![lv8](imgs/08_TheElfC0de_Level8.gif)
 ## 4.3. Hints
-> **Santavator Operations** - Pepper Minstix: *“It's really more art than science. The goal is to put the right colored light into the receivers on the left and top of the panel.”*
+> **Santavator Operations** - Pepper Minstix: *“It's really more art than science. The goal is to put the right colored light into the receivers on the left and top of the panel.”*  
 > **Santavator Bypass** - Ribb Bonbowford: *“There may be a way to bypass the Santavator S4 game with the browser console...”*
 ## 4.4. Solution
 The santavator itself is basically a javascript application which contains two functions to handle when a user presses a button: `handleBtn()` and `handleBtn4()`. By directly calling the content of these functions with proper variables set it was possible to make the santavator move to another floor.
@@ -349,7 +349,7 @@ $.ajax({
 ```
 ![floor-r](imgs/13_goToFloor-r.png)
 ## 4.5. “It's really more art than science”
-Once obtained all objects it was possible to power up the santavator properly. I think I made it really bad so here’s the screenshot of all pieces in “artistic” places:
+Once obtained all objects it was possible to power up the santavator properly. I think I made it really bad so here’s the screenshot of all pieces in “artistic” places:  
 ![art](imgs/14_art.png)
 
 ---
