@@ -65,7 +65,7 @@ Altering `/Type/Catalog/_Go_Away/Santa/Pages` from `2` to `3` causes the PDF to 
 ![pdfalter](imgs/02_altered_pdf_content.png)
 
 After looking a little more within the PDF itself I thought maybe I had to change something directly in the full block and ended up focusing on the Sign value from `0x1` (Nice) to `0x0` (Naughty). To be able to easily alter the value I copied out the section of the `blockchain.dat` file pertaining that block to a separated file (from offset `0016:302C` to `0016:D1EE`) which I called `129459.dat`.
-I then made the changes to PDF and sign directly into that file:
+I then made the changes to PDF and sign directly into that file:  
 ![blockalter](imgs/03_altered_block_2B.png)
 
 At that point it was obvious that the hash of the block was altered thus I wrote and executed a short script to compare the original (Jack’s) block with mine:
@@ -150,10 +150,10 @@ Original block SHA256: 58a3b9335a6ceb0234c12d35a0564c4ef0e90152d0eb2ce2082383b38
  Altered block SHA256: 17a4022e8450fd838bd53dd57efba263af1660282f0c851cbfe5c8d65da76c54
         SHA256s Match: False
 ```
-Multiple tentatives, suggestions and re-reading through the slides after I was able to find out the other two bytes I had to fix to revert the hash collision Jack made I identified bytes 0x89 and 0x149 as my targets. So I made my math on the relevant offsets:
+Multiple tentatives, suggestions and re-reading through the slides after I was able to find out the other two bytes I had to fix to revert the hash collision Jack made I identified bytes 0x89 and 0x149 as my targets. So I made my math on the relevant offsets:  
 ![altered_block_final](imgs/04_altered_block_final.png)
 
-Another execution of the previous script shown that it worked and the SHA256 hash for the block became fff054f33c2134e0230efb29dad515064ac97aa8c68d33c58c01213a0d408afb:
+Another execution of the previous script shown that it worked and the SHA256 hash for the block became `fff054f33c2134e0230efb29dad515064ac97aa8c68d33c58c01213a0d408afb`:
 ```bash
 thedead@dellian:~/Desktop/repos/KringleCon3/11b$ python3 block_compare.py 
 ##################
@@ -185,7 +185,7 @@ How could I not give a big thanks to another participant who helped me with this
 ![green](imgs/05_greengang.jpg)
 ## 11b.4. Behind the scenes with those two last bytes
 I’ve been working to understand the two last bytes of the four tampered by Jack. At a certain point I started taking notes on post-its about the structure of the block and about what and where I could change and what was not supposed to be changed:
-![postit1](06_postit1.jpg)
+![postit1](imgs/06_postit1.jpg)
 ![postit2](imgs/07_postit2.jpg)
 
 I thought that maybe I could work my way out with some bruteforcing but ~120B of bruteforce is not something I could realistically do. Anyway I knew I had to cause an hash collision so I played around with modifying the block and looking at the produced hashes until I had a feeling about one of the hashes produced:
