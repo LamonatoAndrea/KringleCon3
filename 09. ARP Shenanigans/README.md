@@ -251,7 +251,7 @@ guest@3944f7bc1eff:~$ nc -l -p 4242 > NORTH_POLE_Land_Use_Board_Meeting_Minutes.
 Reading through the file pointed out that Tanta Kringle recused herself from the vote.
 
 ## 9.4. Special thanks
-Thanks to the partly-uuid bud on Discord who had the patience to make me notice there was a readme file which I completely overlooked. Shame on me for not being able to start the web server at the first shot 😁
+Thanks to the partly-uuid bud on Discord who had the patience to make me notice there was a readme file which I completely overlooked. Shame on me for not being able to start the web server at the first shot 😁  
 ![readme](imgs/00_readme.png)
 
 
