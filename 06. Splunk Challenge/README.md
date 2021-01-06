@@ -190,7 +190,8 @@ RESPONSE: `The Lollipop Guild`
 
 ## 6.4. T-Shirts and Stickers
 I actually have this splunk t-shirt and sticker, love them!
-| [![tshirt](imgs/03_lookingfortrouble.jpeg)](https://poshmark.com/listing/SPLUNK-Looking-For-Trouble-Mens-Graphic-T-Shirt-5e12a1df41950146cd874171) | | ![sticker](imgs/04_sticker.jpg) | 
+[![tshirt](imgs/03_lookingfortrouble.jpeg)](https://poshmark.com/listing/SPLUNK-Looking-For-Trouble-Mens-Graphic-T-Shirt-5e12a1df41950146cd874171)  
+![sticker](imgs/04_sticker.jpg)
 
 ---
 # 7. Solve the Sleigh's CAN-D-BUS Problem
