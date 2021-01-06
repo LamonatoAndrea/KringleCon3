@@ -52,10 +52,10 @@ Remember my request at Chapter 5.5.1? You made me become Santa, you made me fix 
 
 ---
 # 0. [thedead@asian:~$ whoami](../README.md)
-# ?. 33.6 Kbps
-# 1. Uncover Santa's Gift List
-# 2. Investigate S3 Bucket
-# 3. Point-of-Sale Password Recovery
-# 4. Operate the Santavator
-# 5. Open HID Lock
-# 6. Splunk Challenge
+# ?. [33.6 Kbps](../%20%3F.%2033.6%20Kbps/README.md)
+# 1. [Uncover Santa's Gift List](../01.%20Uncover%20Santa's%20Gift%20List/README.md)
+# 2. [Investigate S3 Bucket](../02.%20Investigate%20S3%20Bucket/README.md)
+# 3. [Point-of-Sale Password Recovery](../03.%20Point-of-Sale%20Password%20Recovery/README.md)
+# 4. [Operate the Santavator](../04.%20Operate%20the%20Santavator/README.md)
+# 5. [Open HID Lock](../05.%20Open%20HID%20Lock/README.md)
+# 6. [Splunk Challenge](../06.%20Splunk%20Challenge/README.md)
