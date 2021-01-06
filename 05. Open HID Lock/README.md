@@ -414,12 +414,12 @@ I then simulated all of the badges near the badge reader in the workshop. The ba
 [=] Stopping simulation after 10 seconds.
 ```
 ## 5.5. Besanta
-Entering the unlocked door and going to its bottom lead to becoming the Santa at the Entry:
+Entering the unlocked door and going to its bottom lead to becoming the Santa at the Entry:  
 ![me](imgs/01_me.png)
-![santa](imgs/02_santa)
+![santa](imgs/02_santa.png)  
 This unlocked a number of new challenges.
 ### 5.5.1. Pls Pls Pls
-Oh Oh Oh! I want to fly with Rudolph next year! Now I am Santa and I can say the guy who wrote this report has been nice enough to deserve it 😁😇
+Oh Oh Oh! I want to fly with Rudolph next year! Now I am Santa and I can say the guy who wrote this report has been nice enough to deserve it 😁😇  
 [![santarider](imgs/03_santarider.jpeg)](https://www.amazon.co.uk/RIDING-REINDEER-COSTUME-CHRISTMAS-NOVELTY/dp/B017KIG9BS)
 
 ---
