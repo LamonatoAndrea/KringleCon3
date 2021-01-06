@@ -423,13 +423,13 @@ Oh Oh Oh! I want to fly with Rudolph next year! Now I am Santa and I can say the
 [![santarider](imgs/03_santarider.jpeg)](https://www.amazon.co.uk/RIDING-REINDEER-COSTUME-CHRISTMAS-NOVELTY/dp/B017KIG9BS)
 
 ---
-# 6. Splunk Challenge
-# 7. Solve the Sleigh's CAN-D-BUS Problem
-# 8. Broken Tag Generator
-# 9. ARP Shenanigans
-# 10. Defeat Fingerprint Sensor
-# 11a. Naughty/Nice List with Blockchain Investigation Part 1
-# 11b. Naughty/Nice List with Blockchain Investigation Part 2
+# 6. [Splunk Challenge](../06.%20Splunk%20Challenge/README.md)
+# 7. [Solve the Sleigh's CAN-D-BUS Problem](../07.%20Solve%20the%20Sleigh's%20CAN-D-BUS%20Problem/README.md)
+# 8. [Broken Tag Generator](../08.%20Broken%20Tag%20Generator/README.md)
+# 9. [ARP Shenanigans](../09.%20ARP%20Shenanigans/README.md)
+# 10. [Defeat Fingerprint Sensor](../10.%20Defeat%20Fingerprint%20Sensor/README.md)
+# 11a. [Naughty/Nice List with Blockchain Investigation Part 1](../11a.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%201/README.md)
+# 11b. [Naughty/Nice List with Blockchain Investigation Part 2](../11b.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%202/README.md)
 
 ---
 # 0. [thedead@asian:~$ whoami](../README.md)

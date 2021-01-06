@@ -34,8 +34,8 @@ Actually I’ve spent some time thinking why this objective looked so straightfo
 ![meme](imgs/01_meme.jpeg)
 
 ---
-# 11a. Naughty/Nice List with Blockchain Investigation Part 1
-# 11b. Naughty/Nice List with Blockchain Investigation Part 2
+# 11a. [Naughty/Nice List with Blockchain Investigation Part 1](../11a.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%201/README.md)
+# 11b. [Naughty/Nice List with Blockchain Investigation Part 2](../11b.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%202/README.md)
 
 ---
 # 0. [thedead@asian:~$ whoami](../README.md)

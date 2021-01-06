@@ -61,7 +61,7 @@ Index 130000 | Predicted Nonce 6270808489970332317 (Hex 0x57066318f32f729d)
 Did you know that also Google has its own [christmas snowball fight game](https://santatracker.google.com/snowball.html)? 
 
 ---
-# 11b. Naughty/Nice List with Blockchain Investigation Part 2
+# 11b. [Naughty/Nice List with Blockchain Investigation Part 2](../11b.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%202/README.md)
 
 ---
 # 0. [thedead@asian:~$ whoami](../README.md)

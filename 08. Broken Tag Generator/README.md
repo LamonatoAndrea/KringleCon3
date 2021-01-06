@@ -106,10 +106,10 @@ PATH=/usr/local/bundle/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sb
 Just wanted to say “[Hi](https://www.youtube.com/watch?v=0fz9-gqwThQ)!” 😁
 
 ---
-# 9. ARP Shenanigans
-# 10. Defeat Fingerprint Sensor
-# 11a. Naughty/Nice List with Blockchain Investigation Part 1
-# 11b. Naughty/Nice List with Blockchain Investigation Part 2
+# 9. [ARP Shenanigans](../09.%20ARP%20Shenanigans/README.md)
+# 10. [Defeat Fingerprint Sensor](../10.%20Defeat%20Fingerprint%20Sensor/README.md)
+# 11a. [Naughty/Nice List with Blockchain Investigation Part 1](../11a.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%201/README.md)
+# 11b. [Naughty/Nice List with Blockchain Investigation Part 2](../11b.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%202/README.md)
 
 ---
 # 0. [thedead@asian:~$ whoami](../README.md)
