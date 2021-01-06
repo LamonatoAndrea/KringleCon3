@@ -249,71 +249,7 @@ Once the remote end reconnected i got the target file:
 guest@3944f7bc1eff:~$ nc -l -p 4242 > NORTH_POLE_Land_Use_Board_Meeting_Minutes.txt
 ```
 Reading through the file pointed out that Tanta Kringle recused herself from the vote.
-```
-Meeting Location: All gathered in North Pole Municipal Building, 1 Santa Claus Ln, North Pole
 
-Chairman Frost calls meeting to order at 7:30 PM North Pole Standard Time.
-
-Roll call of Board members please:
-Chairman Jack Frost - Present
-Vice Chairman Mother Nature - Present
-
-Superman - Present
-Clarice - Present
-Yukon Cornelius - HERE!
-Ginger Breaddie - Present
-King Moonracer - Present
-Mrs. Donner - Present
-Tanta Kringle - Present
-Charlie In-the-Box - Here
-Krampus - Growl
-Dolly - Present
-Snow Miser - Heya!
-Alabaster Snowball - Hello
-Queen of the Winter Spirits - Present
-
-ALSO PRESENT:
-                Kris Kringle
-                Pepper Minstix
-                Heat Miser
-                Father Time
-
-Chairman Frost made the required announcement concerning the Open Public Meetings Act: Adequate notice of this meeting has been made -- displayed on the bulletin board next to the Pole, listed on the North Pole community website, and published in the North Pole Times newspaper -- for people who are interested in this meeting.
-
-Review minutes for December 2020 meeting. Motion to accept – Mrs. Donner. Second – Superman.  Minutes approved.
-
-OLD BUSINESS: No Old Business.
-
-RESOLUTIONS:
-The board took up final discussions of the plans presented last year for the expansion of Santa’s Castle to include new courtyard, additional floors, elevator, roughly tripling the size of the current castle.  Architect Ms. Pepper reviewed the planned changes and engineering reports. Chairman Frost noted, “These changes will put a heavy toll on the infrastructure of the North Pole.”  Mr. Krampus replied, “The infrastructure has already been expanded to handle it quite easily.”  Chairman Frost then noted, “But the additional traffic will be a burden on local residents.”  Dolly explained traffic projections were all in alignment with existing roadways.  Chairman Frost then exclaimed, “But with all the attention focused on Santa and his castle, how will people ever come to refer to the North Pole as ‘The Frostiest Place on Earth?’”  Mr. In-the-Box pointed out that new tourist-friendly taglines are always under consideration by the North Pole Chamber of Commerce, and are not a matter for this Board.  Mrs. Nature made a motion to approve.  Seconded by Mr. Cornelius.  Tanta Kringle recused herself from the vote given her adoption of Kris Kringle as a son early in his life.  
-
-Approved:
-Mother Nature
-Superman
-Clarice
-Yukon Cornelius
-Ginger Breaddie
-King Moonracer
-Mrs. Donner
-Charlie In the Box
-Krampus
-Dolly
-Snow Miser
-Alabaster Snowball
-Queen of the Winter Spirits
-
-Opposed: 
-                Jack Frost
-
-Resolution carries.  Construction approved.
-
-NEW BUSINESS:
-
-Father Time Castle, new oversized furnace to be installed by Heat Miser Furnace, Inc.  Mr. H. Miser described the plan for installing new furnace to replace the faltering one in Mr. Time’s 20,000 sq ft castle. Ms. G. Breaddie pointed out that the proposed new furnace is 900,000,000 BTUs, a figure she considers “incredibly high for a building that size, likely two orders of magnitude too high.  Why, it might burn the whole North Pole down!”  Mr. H. Miser replied with a laugh, “That’s the whole point!”  The board voted unanimously to reject the initial proposal, recommending that Mr. Miser devise a more realistic and safe plan for Mr. Time’s castle heating system.
-
-
-Motion to adjourn – So moved, Krampus.  Second – Clarice. All in favor – aye. None opposed, although Chairman Frost made another note of his strong disagreement with the approval of the Kringle Castle expansion plan.  Meeting adjourned.
-```
 ## 9.4. Special thanks
 Thanks to the partly-uuid bud on Discord who had the patience to make me notice there was a readme file which I completely overlooked. Shame on me for not being able to start the web server at the first shot 😁  
 ![readme](imgs/00_readme.png)
