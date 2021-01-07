@@ -1,5 +1,5 @@
 # Writeup for SANS Holiday Hack Challenge 2020 - 'Zat You, Santa Claus? featuring KringleCon 3: French Hens
-## 0. thedead@asian:~$ whoami
+## 0. thedead@dellian:~$ whoami
 ```bash
 thedead@dellian:~$ whoami
 

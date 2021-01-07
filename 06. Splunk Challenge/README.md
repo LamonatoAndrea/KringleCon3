@@ -202,7 +202,7 @@ I actually have this splunk t-shirt and sticker, love them!
 # 11b. [Naughty/Nice List with Blockchain Investigation Part 2](../11b.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%202/README.md)
 
 ---
-# 0. [thedead@asian:~$ whoami](../README.md)
+# 0. [thedead@dellian:~$ whoami](../README.md)
 # ?. [33.6 Kbps](../%20%3F.%2033.6%20Kbps/README.md)
 # 1. [Uncover Santa's Gift List](../01.%20Uncover%20Santa's%20Gift%20List/README.md)
 # 2. [Investigate S3 Bucket](../02.%20Investigate%20S3%20Bucket/README.md)

@@ -34,5 +34,5 @@ Which I suppose may make sense with [becoming Santa](TO_LINK) afterward, but who
 # 11a. [Naughty/Nice List with Blockchain Investigation Part 1](../11a.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%201/README.md)
 # 11b. [Naughty/Nice List with Blockchain Investigation Part 2](../11b.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%202/README.md)
 ---
-# 0. [thedead@asian:~$ whoami](../README.md)
+# 0. [thedead@dellian:~$ whoami](../README.md)
 # ?. [33.6 Kbps](../%20%3F.%2033.6%20Kbps/README.md)

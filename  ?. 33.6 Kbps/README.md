@@ -126,4 +126,4 @@ Shinny Upatree’s badge is the working one for [Objective 5](TO_LINK).
 # 11a. [Naughty/Nice List with Blockchain Investigation Part 1](../11a.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%201/README.md)
 # 11b. [Naughty/Nice List with Blockchain Investigation Part 2](../11b.%20Naughty-Nice%20List%20with%20Blockchain%20Investigation%20Part%202/README.md)
 ---
-# 0. [thedead@asian:~$ whoami](../README.md)
+# 0. [thedead@dellian:~$ whoami](../README.md)
