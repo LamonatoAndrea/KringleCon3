@@ -72,3 +72,8 @@ Thanks for the interesting challenge guys and see you next year!
 Maybe I also found out why Jack Frosty was so grinchy this year...  
 ![Dear Santa](imgs/00_dearSanta.jpeg)  
 ...did I ask to make a [run run Rudolph](https://www.youtube.com/watch?v=YiadNVhaGwk) challenge next year already?
+## 13.1. Honorable Mention
+I got myself an [Honorable Mention](https://holidayhackchallenge.com/2020/winners_answers.html) submitting the writeup for this challenge, thank you guys!
+![honorable mention](imgs/01_honorable_mention.png)
+
+...I kinda hope this will make me deal with Rudolph the next time...
